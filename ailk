@@ -1,0 +1,8 @@
+cd deneme_repo
+
+# Bir deneme dosyası oluşturma
+echo "echo 'Merhaba GitHub'" > my_script.sh
+
+# README dosyasını oluşturma (Çok kısa bir markdown dosyası)
+echo -e "# Deneme Projem\n\nBu dosya projenin kısa bir açıklamasıdır.\nİkinci paragrafta ise projenin amaçları belirtilmiştir." > README.md
+
