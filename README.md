@@ -5,4 +5,5 @@ en-limitless map in bash with jq..
 
 misal-example:
  set-nested-key '.anh.altanh' 'deger'
+ 
  set-nested-key '.key.subkey' 'value'
